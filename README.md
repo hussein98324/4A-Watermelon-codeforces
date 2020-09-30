@@ -8,4 +8,4 @@ link for a problem :
 https://codeforces.com/contest/4/problem/A
 
 link for my Codeforces profile :
-https://codeforces.com/profile/husseinelfarghaly
+https://codeforces.com/profile/HusseinELfarghali
